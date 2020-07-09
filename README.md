@@ -7,10 +7,10 @@ My choice of pronouns are We/Us as an effort to build a more inclusive community
 
 Many people know me on social media as bona fide Señor Pinky 👁️💗2️⃣💪🏽♀️⚙️👩🏽‍💻 for a couple of reasons:
 
-* bona fide means I’m sincere; without intention to deceive.
-* Señor means Mister in Spanish.
-* Pink or Pinky means Rosado in Spanish.
-* The emojis represent my hard work of always looking for ways to increase Diversity & Inclusion.
+* <i>bona fide</i> means I’m sincere; without intention to deceive.
+* <i>Señor</i> means Mister in Spanish.
+* <i>Pink</i> or <i>Pinky</i> means Rosado in Spanish.
+* The <i>emojis</i> represent my hard work of always looking for ways to increase Diversity & Inclusion.
 
 👁️(eye)              <strong>I</strong>
 
@@ -26,7 +26,7 @@ Many people know me on social media as bona fide Señor Pinky 👁️💗2️⃣
 
 👩🏽‍💻                       <strong>code</strong>
 
-<a href="https://mikerostx.me/about-me">Get to know me better.</a>
+<a href="https://mikerostx.me/about-me"><strong>Get to know me better.</strong></a>
 <!--
 **MikeRosTX/MikeRosTX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
