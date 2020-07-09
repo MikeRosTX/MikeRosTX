@@ -12,21 +12,21 @@ Many people know me on social media as bona fide Señor Pinky 👁️💗2️⃣
 * Pink or Pinky means Rosado in Spanish.
 * The emojis represent my hard work of always looking for ways to increase Diversity & Inclusion.
 
-👁️(eye)              I
+👁️(eye)              <strong>I</strong>
 
-💗                      love
+💗                      <strong>love</strong>
 
-2️⃣(two)             to
+2️⃣(two)             <strong>to</strong>
 
-💪🏽                      empower & support
+💪🏽                      <strong>empower & support</strong>
 
-♀️                        women
+♀️                        <strong>women</strong>
 
-⚙️(DevOps)      developing
+⚙️(DevOps)      <strong>developing</strong>
 
-👩🏽‍💻                       code
+👩🏽‍💻                       <strong>code</strong>
 
-Get to know me better.
+<a href="https://mikerostx.me/about-me">Get to know me better.</a>
 <!--
 **MikeRosTX/MikeRosTX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
