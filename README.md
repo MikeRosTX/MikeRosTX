@@ -2,7 +2,7 @@
 
 Who Am I:
 ## Mike Rosado (aka: Señor Pinky)
-#### Community Advocate 🥑
+#### Customer Success Account Manager 🥑
 My choice of pronouns are We/Us as an effort to build a more inclusive community.
 
 Many people know me on social media as bona fide Señor Pinky 👁️💗2️⃣💪🏽♀️⚙️👩🏽‍💻 for a couple of reasons:
